@@ -1,0 +1,18 @@
+{
+    "name": "sweetsica/quickcover",
+    "description": "Package made by Sweetsica - for fast create CRUD function",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sweetsica\\Quickcover\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sweetsica",
+            "email": "barondeepsnow@gmail.com"
+        }
+    ],
+    "require": {}
+}
